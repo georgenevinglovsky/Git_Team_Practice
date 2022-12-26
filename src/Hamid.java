@@ -1,0 +1,2 @@
+public class Hamid {
+}
