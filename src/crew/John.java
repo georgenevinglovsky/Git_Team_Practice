@@ -14,4 +14,3 @@ Your method should create email domain concatenating name and surname from Hanna
 with @ and gmail.com
 (AC general - Every request directed to user must be Highlighted by console)
  */
-//test02
