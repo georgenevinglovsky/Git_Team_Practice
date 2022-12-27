@@ -8,6 +8,7 @@ public class John extends StudentInfo {
         return null;
     }
 }
+
 /*
 1.John
 Your method should create email domain concatenating name and surname from Hannan method
